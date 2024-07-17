@@ -1,6 +1,6 @@
 # sistema_comisiones_roddome
 
-A new Flutter project.
+This project, developed during an internship at Roddome Pharmaceutical, is a system that calculates employee commissions using data from Excel sheets. It produces an organized Excel workbook with all the necessary calculations.
 
 ## Getting Started
 
